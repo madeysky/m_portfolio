@@ -34,7 +34,7 @@ export default function Portfolio() {
                             <Card.Text className="cardText">
                                 Blog osobisty o tematyce sportowej i stylu życia.
                             </Card.Text>
-                            <Button href="#" target="_blank" className="btnMainOffer portfolioBTN">
+                            <Button href="https://madeysky.github.io/projekt_85/" target="_blank" className="btnMainOffer portfolioBTN">
                                 Odwiedź Stronę
                             </Button>
                         </Card.Body>

@@ -17,7 +17,7 @@ export default function Services() {
                             <div className="box">
                                 <div className="circle"><FontAwesomeIcon className="icon" icon={faDesktop} size="2x" /></div>
                                 <h3>Projektowanie Stron Internetowych</h3>
-                                <p>Podchodzę do każdego projektu indywidualnie. Najważneiszjy dla mnie jest efekt końcowy.</p>
+                                <p>Podchodzę do każdego projektu indywidualnie. Najważniejszy dla mnie jest efekt końcowy.</p>
                             </div>
                         </div>
                         <div className="col-lg-3 col-md-6 col-sm-6">
